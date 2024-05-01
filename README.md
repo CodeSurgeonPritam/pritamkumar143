@@ -24,7 +24,9 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
+
 ---
-[![](https://visitcount.itsvg.in/api?id=pritamkumar143&icon=2&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pritamkunar&label=Profile%20Views&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
