@@ -27,6 +27,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pritamkunar&label=Profile%20Views&icon=4&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pritamkumar143&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
