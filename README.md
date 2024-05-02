@@ -2,7 +2,8 @@
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
 <p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Pritam Kumar  </h1></p>
 <p align="center" margin-top="10px" >
-**## I'm a Student, Programmer, Developer, and Blogger!!**
+  
+## I'm a Student, Programmer, Developer, and Blogger!!
 
 ## 🌐 Socials:
 [![codewith_pritam](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impritambinakashyap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam143) 
