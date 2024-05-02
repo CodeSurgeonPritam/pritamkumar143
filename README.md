@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m @pritam kumar<br>👀 I’m interested in CODING<br>🌱 I’m currently pursing bachelor of technology in  LNCT BHOPAL<br>💞️ I’m looking to collaborate on own business <br>📫 How to reach me ...
+<p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
+<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kumar Harsh  </h1></p>
+<p align="center" margin-top="10px" >
+## I'm a Student, Programmer, Developer, and Blogger!!
 
 
 ## 🌐 Socials:
