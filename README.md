@@ -44,6 +44,8 @@
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br />
 
+         
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pritamkumar143&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
