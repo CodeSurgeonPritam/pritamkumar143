@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
-<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kumar Harsh  </h1></p>
+<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Pritam Kumar  </h1></p>
 <p align="center" margin-top="10px" >
 ## I'm a Student, Programmer, Developer, and Blogger!!
 
