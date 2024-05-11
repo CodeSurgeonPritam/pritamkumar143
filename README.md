@@ -1,5 +1,6 @@
 # 💫 About Me:
-<p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Pritam Kumar  </h1></p>
 <p align="center" margin-top="10px" >
   
