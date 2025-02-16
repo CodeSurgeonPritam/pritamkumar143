@@ -3,71 +3,129 @@
 </div>
 <h1 align="center">Hello👋, I'm Pritam Kumar</h1>
 <h3 align="center">A passionate full-stack developer and 3D enthusiast, I blend creativity with technical expertise to craft innovative digital experiences. Proficient in the MERN stack, Java, and DSA, I love building dynamic web apps and exploring the world of 3D design. When I’m not coding, you’ll find me hosting poetry events or diving into my favorite anime. Let’s create something amazing together!</h3>
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif">
+<!-- <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif"> -->
 
 # 💫 About Me:
 ✨ I’m currently working on MERN and Machine Learning <br>💫 I’m looking to collaborate on full stack projects<br>💬 Ask me about DSA <br>
 
 📫 How to reach me **pritamkunar13@gmail.com**
 
+# 🌐 Get In Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam143)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pritam-portfoliooo.vercel.app/)
+
 
 ## 🌐 Socials:
-[![codewith_pritam](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impritambinakashyap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam143) 
+[![codewith_pritam](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impritambinakashyap/) 
 
 
-## 🛠️ Skills
-### Languages
-![java](https://img.shields.io/badge/java-3178C6?style=for-the-badge&logo=java&logoColor=pink)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-                                                                                                                              
-### Front-End Development
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![graphql](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-### Back-End Development
-![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)                                                                                                    
-### Database
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-### Backend as a Service (BaaS)
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-### Testing
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-<br />
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
-         
+#### JS Framework/Library
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
+![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)
+
+#### CSS Framework/Library/Pre-processors
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+
+#### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+#### Database/State
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
+
+#### Backend
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+
+#### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### CI/CD
+![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - Pritam Kumar
+```
+
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=pritamkumar143&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pritamkumar143&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=pritamkumar143&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/pritamkumar143/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=pritamkumar143&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pritamkumar143&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pritamkumar143&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=pritamkumar143&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
