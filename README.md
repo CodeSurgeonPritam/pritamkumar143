@@ -105,15 +105,12 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pritamkumar143&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=pritamkumar143&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/pritamkumar143/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/pritamkumar143/pritamkumar143/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 [![](https://visitcountpro.netlify.app/api?id=pritamkumar143&pretty=true)](https://visitcount.itsvg.in)
