@@ -1,10 +1,15 @@
-# 💫 About Me:
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<div align="center">
+    <img src="gitartwork.svg" alt="gitartwork">
+</div>
+<h1 align="center">Hello👋, I'm Pritam Kumar</h1>
+<h3 align="center">A passionate full-stack developer and 3D enthusiast, I blend creativity with technical expertise to craft innovative digital experiences. Proficient in the MERN stack, Java, and DSA, I love building dynamic web apps and exploring the world of 3D design. When I’m not coding, you’ll find me hosting poetry events or diving into my favorite anime. Let’s create something amazing together!</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Pritam Kumar  </h1></p>
-<p align="center" margin-top="10px" >
-  
-## I'm a Student, Programmer, Developer, and Blogger!!
+# 💫 About Me:
+✨ I’m currently working on MERN and Machine Learning <br>💫 I’m looking to collaborate on full stack projects<br>💬 Ask me about DSA <br>
+
+📫 How to reach me **pritamkunar13@gmail.com**
+
 
 ## 🌐 Socials:
 [![codewith_pritam](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impritambinakashyap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam143) 
